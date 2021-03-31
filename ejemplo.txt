@@ -2,3 +2,5 @@ hola mi historia 133
 estudaindo platzii, falta js entre otros
 estos estor commint 
 otro ejemplo para descagar repositorio de GitHub
+
+hacemos lo mismo pero al contrario con push
