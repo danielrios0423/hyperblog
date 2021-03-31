@@ -4,3 +4,5 @@ estos estor commint
 otro ejemplo para descagar repositorio de GitHub
 
 hacemos lo mismo pero al contrario con push
+
+otro ejemplo depues de haber agragado la llave ssh
